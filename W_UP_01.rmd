@@ -55,7 +55,7 @@ load the num~cat helper file
 boxplot(pushups~position,data=mydata)
 ```
 
-The boxplot shows that
+The boxplot shows that skill position does more pushups in 2 minutes than players on the line
 
 
 ### Numerical Descriptive Results
